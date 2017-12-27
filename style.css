@@ -1,0 +1,69 @@
+body{
+  background: linear-gradient(#1a8cff, #66b3ff, #99ccff);
+  margin-top: 0;
+}
+
+header{
+  display: flex;
+  flex-direction: column;
+}
+
+h1{
+  margin: 0;
+  margin-top: 2%;
+}
+
+.tagline{
+  margin: 0;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+}
+
+label{
+  display: flex;
+  justify-content: center;
+  font-size: 4vh;
+  margin-top: 10%;
+}
+
+input{
+  width: 40%;
+  padding: 1%;
+  text-align: center;
+  margin-left: 29%;
+}
+
+button{
+  width: 35%;
+  margin-left: 33%;
+  margin-top: 1%;
+  padding: .4%;
+  border-radius: 6px;
+  background-color: #e6f2ff;
+}
+
+.copyright{
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  padding-top: 25%;
+}
+img{
+  width: 30%;
+}
+
+h3{
+  display: flex;
+  justify-content: center;
+}
+
+
+.drinks{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+}
